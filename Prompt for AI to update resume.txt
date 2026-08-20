@@ -2,7 +2,6 @@
  Analyze my resume for Data analyst. Improve weak points, align it with the job description, and highlight missing keywords. Also flag anything that could hurt ATS performance.
 
 
-
 2. Turn boring tasks into strong achievements
  Convert my responsibilities into achievement-driven bullet points. Use metrics and results. If data is missing, ask me before rewriting.
 
